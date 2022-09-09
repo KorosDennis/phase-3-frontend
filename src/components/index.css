@@ -6,7 +6,7 @@
 body{
   font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   margin: 2rem;
-  background: #FFF;
+  background: rgb(27, 25, 25);
   color: #FFF;
   font-family: "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
   font-size: 12px;
@@ -68,7 +68,7 @@ h1,h2,h3,h4{
   font-family: Arial, Helvetica, sans-serif;
   /* font-weight: bolder; */
   font-kerning: initial;
-  color: rgb(233, 35, 0);
+  color: rgb(21, 226, 199);
 
 }
 
@@ -86,7 +86,7 @@ h1,h2,h3,h4{
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 20px;
     font-style: oblique;
-    color: rgb(19, 18, 17);
+    color: rgb(206, 197, 233);
 }
 
 
