@@ -1,8 +1,13 @@
 # PET APP
 
- This is a front end of the pet app where a user can have a pet and give a rating comment on a pet he owns.
+ This is a front end of the pet app where a user can have a pet and give a rating comment on any pet. 
+ My initial idea was to have a comment on each pet card  so that all the comments ralated to each pet are on every card.
+ I am looking foward to implementing this   featurein soon...
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+ ## BACKEND
+ you can access the back end API by using this link [backend](https://github.com/KorosDennis/phase-3-sinatra-react-project).
+
+This feature was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Installation
 ##### step 1.
@@ -11,15 +16,13 @@ to run the application you run 'npm start' on the terminal
 ````
 ##### step 2.
 ```
-open another terminal and run 'json-server --watch db.json --port 8000'
+open another terminal  under the back end and run 'bundle exec rake server'
  ```
 #### step 3.
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 If you want to view live page visit click [https://projectphase2.vercel.app/](https://projectphase2.vercel.app/)
 
-To view the db.json  on the browser open [http://localhost:8000/sneakers](http://localhost:3000)
-## Technologies used
 I used  purely react JS  to make this web appplication
 
 

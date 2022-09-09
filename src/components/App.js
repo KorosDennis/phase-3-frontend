@@ -1,8 +1,12 @@
 import React, {useEffect, useState} from "react";
+import { Route,Routes} from "react-router-dom";
 import Login from "./Login";
 import Home from "./Home";
 import PetPage from "./PetPage";
 import PetForm from "./PetForm";
+import NavBar from "./NavBar";
+import Comments from "./Rating Comments/Comments";
+
     
 
 function App (){
@@ -82,6 +86,12 @@ function App (){
       onHandleLogin={handleUserlogin}
       allUsers={allUsers}
       />
+      <NavBar />
+      <Routes>
+        {/* <Route path="/" element={<Home/>} /> */}
+        <Route path="/Comments" element=
+        {<Comments/>}/> 
+      </Routes>
     </>
     )}
     </div>
