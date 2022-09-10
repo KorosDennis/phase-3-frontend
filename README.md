@@ -21,7 +21,7 @@ open another terminal  under the back end and run 'bundle exec rake server'
 #### step 3.
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-If you want to view live page visit click [https://projectphase2.vercel.app/](https://projectphase2.vercel.app/)
+If you want to view live page visit click [Frontend](https://phase-3-frontend.vercel.app/).
 
 I used  purely react JS  to make this web appplication
 
